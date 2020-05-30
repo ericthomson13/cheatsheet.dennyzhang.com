@@ -9,7 +9,7 @@
 ## Description :
 ## --
 ## Created : <2017-12-04>
-## Updated: Time-stamp: <2020-05-26 11:48:22>
+## Updated: Time-stamp: <2020-05-28 17:37:52>
 ##-------------------------------------------------------------------
 set -e
 
@@ -30,7 +30,7 @@ function brew_install {
 
 function brew_install_devkit {
     echo "Brew install devkit"
-    brew install mysql
+    brew install mysql mosh
 }
 
 function python_setup {

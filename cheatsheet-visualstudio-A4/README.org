@@ -18,13 +18,19 @@
 
 - PDF Link: [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/blob/master/cheatsheet-visualstudio-A4/cheatsheet-visualstudio-A4.pdf][cheatsheet-visualstudio-A4.pdf]], Category: [[https://cheatsheet.dennyzhang.com/category/cloud/][Cloud]]
 - Blog URL: https://cheatsheet.dennyzhang.com/cheatsheet-visualstudio-A4
-- Related posts: [[https://cheatsheet.dennyzhang.com/cheatsheet-git-A4][Git CheatSheet]], [[https://cheatsheet.dennyzhang.com/cheatsheet-mercruial-A4][Mercruial/hg CheatSheet]]
+- Related posts: [[https://cheatsheet.dennyzhang.com/cheatsheet-git-A4][Git CheatSheet]]
 File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues]] or star [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com][this repo]].
 ** Visual Studio Summary
-| Name                        | Command                  |
-|-----------------------------+--------------------------|
-| Enter command mode          | Cmd+Shift+P              |
-| Detect visual studio issues | =>doctor:Fix My VS Code= |
+| Name                         | Command                         |
+|------------------------------+---------------------------------|
+| Enter command mode           | Cmd+Shift+P                     |
+| File search                  |                                 |
+| Detect visual studio issues  | =>doctor:Fix My VS Code=        |
+| Format code                  | =>Format Document=              |
+| Search by text or name       | =>Omni-search: Open Omi-search= |
+| Interactive Smartlog         |                                 |
+| Show uncommitted changes     | =>Show Uncommitted Changes=     |
+| shortcut to get specify line | =C-g, then line number=         |
 ** More Resources
 
 License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
